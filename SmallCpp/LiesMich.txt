@@ -1,0 +1,50 @@
++SmallC++ 0.5 2010 (Th.Cassebaum, alle Rechte vorbehalten)
+-------------------------------------------------------------------------
+- SmallC++ soll es ermöglichen, einfache C++ Programme zu Übungszwecken
+  eingeben, ändern, compilieren und testen zu können. Das Programm ist
+  ohne umständliche Installation, allein in einer Kopie des gesamten
+  Verzeichnisses "SmallCpp" - auf Disk oder Stick - nutzbar.
+
+- Es ist ein Windows-System erforderlich. FürAnwendungen der Grafik-Library 
+  ALGEO ist OpenGl und GLUT erforderlich. Lesen Sie dazu weiter unter Punkt 
+  2.: Probleme mit OpenGl oder GLUT. 
+
+- Der Autor freut sich über jede Meldung von Problemen und hofft auf kon-
+  struktive Tipps zur Verbesserung und Erweiterung der Software.
+
+
+1.Sicherheitshinweise und Nutzungsrechte
+-------------------------------------------------------------------------
+  Der Autor gibt keine Sicherheitsgarantie für die Verwendung der Softwa-
+  re "SmallCpp 0.5". Er hat sich im Rahmen seiner Möglichkeiten bemüht
+  sicher zu stellen, dass mit ihr schadensfrei gearbeitet werden kann. Für 
+  dennoch auftretende Schäden wird er keinerlei Schadenersatz für einen 
+  durch die Nutzung dieser Testversion entstandenen Schaden leisten. 
+
+  Diese Version darf von Schülern und Lehrern an öffentlichen Schulen in 
+  Deutschland ausschließlich zu Bildungszwecken frei getestet und zur 
+  Programmentwicklung genutzt werden. Die Software darf nur vollständig 
+  und unverändert in der erhaltenen ZIP-Version kopiert und weitergegeben 
+  werden. Eine Vermarktung der Software sowie deren Übernahme wird in Tei-
+  len oder vollständig untersagt. Dies gilt auch bei der Verwendung zur 
+  Herstellung anderer Software.   
+
+
+2.Probleme mit OpenGl oder GLUT:
+-------------------------------------------------------------------------
+  Sollten die Anwendungen mit algeo.h eine Fehlerausschrift ohne Erklä-
+  rung erzeugen, so kopieren Sie bitte überschreibend alle Dateien des 
+  Verzeichnisses: 
+				\SmallCpp\system32 
+
+  in das Windows-Verzeichnis "\windows\system32" oder "\winnt\system32".
+
+
+3.Bekannte Fehler (werden noch beseitigt!):
+-------------------------------------------------------------------------
+- Das Binden der Datentypen (z.B. cpp, h, ...) an SmallCpp zur automati-
+  schen Dateiöffnung in Smallcpp ist derzeit noch nicht möglich. Ein Ver-
+  such in dieser Richtung führt zu Fehlern.
+- ...
+
+  Viel Spass beim Testen wünscht der Autor Thomas Cassebaum

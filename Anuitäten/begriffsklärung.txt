@@ -1,0 +1,6 @@
+Tilgung:
+	Geld bei beispielsweise einer Bank leiht und die aufgenommene Schuld in Form von (regelmäßigen) Rückzahlungen tilgt
+Zinsen:
+	Zinsen wird der Geldbetrag bezeichnet, mit dem ein Schuldner für geliehenes Kapital bezahlt. In diesem Sinne kann der Zins auch als Preis des Geldes bezeichnet werden. Die Höhe der Zinsen wird in Prozent gemessen und durch den Zinssatz angeben.
+Annuität:
+	Die Annuität ist eine regelmäßige Rückzahlung, die sich aus Tilgung und Zins zusammensetzt.

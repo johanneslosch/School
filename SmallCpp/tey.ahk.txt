@@ -1,0 +1,3 @@
+#l::
+;;Run, P:\SmallCpp\skript.exe
+MouseMove, 100, 4, 10

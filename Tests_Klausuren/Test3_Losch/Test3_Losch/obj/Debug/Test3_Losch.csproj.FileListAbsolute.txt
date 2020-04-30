@@ -1,0 +1,9 @@
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\bin\Debug\Test3_Losch.exe.config
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\bin\Debug\Test3_Losch.exe
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\bin\Debug\Test3_Losch.pdb
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\obj\Debug\Test3_Losch.csprojResolveAssemblyReference.cache
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\obj\Debug\Test3_Losch.Form1.resources
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\obj\Debug\Test3_Losch.Properties.Resources.resources
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\obj\Debug\Test3_Losch.csproj.GenerateResource.Cache
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\obj\Debug\Test3_Losch.exe
+P:\Tests_Klausuren\Test3_Losch\Test3_Losch\obj\Debug\Test3_Losch.pdb

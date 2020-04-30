@@ -1,0 +1,13 @@
+[defaults]
+default_strukt_prefix="STRUCTO"
+default_yes="wahr"
+default_no="falsch"
+default_if=""
+default_while="solange "
+default_repeat="solange "
+default_for=""
+default_case=""
+default_case_prefix="Fall"
+default_case_else="sonst"
+[autocorrect]
+Arrow=1

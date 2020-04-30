@@ -1,0 +1,9 @@
+P:\new\rechentrainer\rechentrainer\bin\Debug\rechentrainer.exe.config
+P:\new\rechentrainer\rechentrainer\bin\Debug\rechentrainer.exe
+P:\new\rechentrainer\rechentrainer\bin\Debug\rechentrainer.pdb
+P:\new\rechentrainer\rechentrainer\obj\Debug\rechentrainer.csprojResolveAssemblyReference.cache
+P:\new\rechentrainer\rechentrainer\obj\Debug\rechentrainer.Form1.resources
+P:\new\rechentrainer\rechentrainer\obj\Debug\rechentrainer.Properties.Resources.resources
+P:\new\rechentrainer\rechentrainer\obj\Debug\rechentrainer.csproj.GenerateResource.Cache
+P:\new\rechentrainer\rechentrainer\obj\Debug\rechentrainer.exe
+P:\new\rechentrainer\rechentrainer\obj\Debug\rechentrainer.pdb

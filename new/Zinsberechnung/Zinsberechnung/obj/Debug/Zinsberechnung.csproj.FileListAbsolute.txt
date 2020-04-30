@@ -1,0 +1,9 @@
+P:\new\Zinsberechnung\Zinsberechnung\bin\Debug\Zinsberechnung.exe.config
+P:\new\Zinsberechnung\Zinsberechnung\bin\Debug\Zinsberechnung.exe
+P:\new\Zinsberechnung\Zinsberechnung\bin\Debug\Zinsberechnung.pdb
+P:\new\Zinsberechnung\Zinsberechnung\obj\Debug\Zinsberechnung.csprojResolveAssemblyReference.cache
+P:\new\Zinsberechnung\Zinsberechnung\obj\Debug\Zinsberechnung.Form1.resources
+P:\new\Zinsberechnung\Zinsberechnung\obj\Debug\Zinsberechnung.Properties.Resources.resources
+P:\new\Zinsberechnung\Zinsberechnung\obj\Debug\Zinsberechnung.csproj.GenerateResource.Cache
+P:\new\Zinsberechnung\Zinsberechnung\obj\Debug\Zinsberechnung.exe
+P:\new\Zinsberechnung\Zinsberechnung\obj\Debug\Zinsberechnung.pdb

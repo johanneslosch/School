@@ -1,0 +1,9 @@
+P:\new\Max3zahlen\Max3zahlen\bin\Debug\Max3zahlen.exe.config
+P:\new\Max3zahlen\Max3zahlen\bin\Debug\Max3zahlen.exe
+P:\new\Max3zahlen\Max3zahlen\bin\Debug\Max3zahlen.pdb
+P:\new\Max3zahlen\Max3zahlen\obj\Debug\Max3zahlen.csprojResolveAssemblyReference.cache
+P:\new\Max3zahlen\Max3zahlen\obj\Debug\Max3zahlen.Form1.resources
+P:\new\Max3zahlen\Max3zahlen\obj\Debug\Max3zahlen.Properties.Resources.resources
+P:\new\Max3zahlen\Max3zahlen\obj\Debug\Max3zahlen.csproj.GenerateResource.Cache
+P:\new\Max3zahlen\Max3zahlen\obj\Debug\Max3zahlen.exe
+P:\new\Max3zahlen\Max3zahlen\obj\Debug\Max3zahlen.pdb

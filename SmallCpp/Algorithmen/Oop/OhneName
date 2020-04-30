@@ -1,0 +1,11 @@
+// SmallC++ 2010, all rights reserved
+#include <iostream.h>
+class kreis
+{ public:  
+  private: float x,y,r;
+}
+int main()   
+{ 
+  getchar();
+  return 0; 
+}

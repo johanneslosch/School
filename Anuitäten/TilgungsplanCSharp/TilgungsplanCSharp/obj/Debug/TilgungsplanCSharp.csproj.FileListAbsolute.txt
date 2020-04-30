@@ -1,0 +1,12 @@
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\bin\Debug\TilgungsplanCSharp.exe.config
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\bin\Debug\data.mdf
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\bin\Debug\data_log.ldf
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\bin\Debug\TilgungsplanCSharp.exe
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\bin\Debug\TilgungsplanCSharp.pdb
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\obj\Debug\TilgungsplanCSharp.csprojResolveAssemblyReference.cache
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\obj\Debug\TilgungsplanCSharp.frmErgebnis.resources
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\obj\Debug\TilgungsplanCSharp.frmTilgung.resources
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\obj\Debug\TilgungsplanCSharp.Properties.Resources.resources
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\obj\Debug\TilgungsplanCSharp.csproj.GenerateResource.Cache
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\obj\Debug\TilgungsplanCSharp.exe
+P:\Anuitäten\TilgungsplanCSharp\TilgungsplanCSharp\obj\Debug\TilgungsplanCSharp.pdb
